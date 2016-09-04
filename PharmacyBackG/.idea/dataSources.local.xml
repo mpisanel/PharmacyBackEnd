@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - pharmacyb@localhost" uuid="cb443588-adc3-4bee-ba53-d94158c5ebc5">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>pharmacyb:</introspection-scope>
+      <resolve-scope>pharmacyb:</resolve-scope>
+    </data-source>
+  </component>
+</project>
